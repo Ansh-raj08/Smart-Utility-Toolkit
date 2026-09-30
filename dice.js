@@ -1,4 +1,4 @@
-// dice.js
+
 import crypto from "crypto";
 
 function rollDice() {
